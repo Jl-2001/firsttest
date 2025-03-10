@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.8.2",
+    "connect-pg-simple": "^10.0.0",
+    "express": "^4.21.2",
+    "pg": "^8.13.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zustand": "^5.0.3"
+  },
+  "name": "c",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
